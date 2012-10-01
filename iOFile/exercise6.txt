@@ -1,0 +1,6 @@
+202 4 6
+306 4 Display the missing number: 1 + ? = 5
+306 1 Display the missing number: ? + 4 = 5
+306 2 Display the missing number: 3 + ? = 5
+306 3 Display the missing number: ? + 2 = 5
+306 5 Display the missing number: 0 + ? = 5
